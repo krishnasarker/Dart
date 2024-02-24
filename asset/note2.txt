@@ -1,0 +1,2 @@
+This is note 2 file,
+flutter is part of dart language
